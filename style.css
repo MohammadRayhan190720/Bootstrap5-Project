@@ -1,0 +1,44 @@
+.style1{
+  position: absolute;
+  top:10px;
+  left: 580px;
+  z-index: -1;
+}
+.style2{
+  position: absolute;
+  top:150px;
+  left: 750px;
+  z-index: -1;
+}
+.style3{
+  position: absolute;
+  top:230px;
+  left: 850px;
+  z-index: -1;
+}
+
+/* .style4{
+ 
+  position: absolute;
+  top:230px;
+  left: 850px;
+  z-index: -1;
+ 
+  
+
+} */
+.fstyle{
+  font-size: 35px;
+}
+.style7{
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+ul{list-style-type: none;
+
+}
+li a{
+  text-decoration: none;
+  
+}
